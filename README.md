@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulagarwal0605&label=Profile%20views&color=0e75b6&style=flat" alt="rahulagarwal0605" /> </p>
 
-- 🔭 I’m currently working on [My-Covid Web App](https://my-covid-web=api.herokuapp.com/)
+- 🔭 I’m currently working on [My-Covid Web App](https://my-covid-web-api.herokuapp.com/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/rahulagarwal0605](https://github.com/rahulagarwal0605)
 
